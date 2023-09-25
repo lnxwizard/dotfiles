@@ -1,0 +1,8 @@
+[[language]]
+name = "rust"
+
+[[language]]
+name = "toml"
+
+[[language]]
+name = "json"
