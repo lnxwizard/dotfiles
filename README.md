@@ -1,4 +1,5 @@
 # XFCE Dotfiles
+This is my personal dotfiles repository. You can find all dotfiles I use.
 
 ## Orchis Purple Dark
 ![](orchis_purple_dark/screenshots/Screenshot_2023-10-25_21-49-33.png)
