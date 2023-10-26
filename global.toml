@@ -1,8 +1,0 @@
-[helix]
-"helix/" = "~/.config/helix/"
-
-[starship]
-"starship.toml" = "~/.config/starship.toml"
-
-[zsh]
-".zshrc" = "~/.zshrc"
